@@ -10,7 +10,7 @@ This is a core repository of supported devices. We encourage everyone to submit 
 
 ## supported devices
 | Name      | Type.  |Desc. 
-| ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | 
 | **ADS1015** | Interface | 4-channel 12-bit I2C ADC | 
 | **pi-gpio** | Interface | Raspberry Pi GPIO Wrapper | 
 | **VL53L1** | Range Sensor | ToF Sensor |
@@ -23,8 +23,9 @@ This is a core repository of supported devices. We encourage everyone to submit 
 | **pi-cam** | Camera | Official Raspberry Pi Camera (V4L2) |
 
 ### Planned
+
 | LIBRARY      | Type.  |Desc. |
-| ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | 
 | **PCA9685** | Interface | 16-channel 12-bit I2C PWM | 
 | **SRF04/05** | Range Sensor| Affordable Hobby Ultrasound Sensor |
 | **pi-motor** | Motor Driver | Direction + PWM Motor Driver for Raspberry PI |
